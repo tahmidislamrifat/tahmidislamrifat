@@ -1,4 +1,7 @@
+
+<img width="100%" height="80%" src="coding-freak.gif">
 ## Hi 👋,
+
 #
 - I am Tahmid Islam 
 - Studying CSE at AMERICAN INTERNATIONAL UNIVERSITY BANGLADESH
