@@ -1,6 +1,5 @@
 
 <img width="40%" src="coding-freak.gif">
-</br>
 
 ## Hi 👋,
 
