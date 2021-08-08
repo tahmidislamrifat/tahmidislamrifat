@@ -1,5 +1,7 @@
 
-<img width="100%" height="80%" src="coding-freak.gif">
+<img width="40%" src="coding-freak.gif">
+</br>
+
 ## Hi 👋,
 
 #
