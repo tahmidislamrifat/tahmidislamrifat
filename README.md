@@ -48,6 +48,6 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tahmid73)
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmid73&langs_count=6&theme=dark&layout=compact)](https://github.com/tahmid73)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidislamrifat&langs_count=6&theme=dark&layout=compact)](https://github.com/tahmid73)
 # 
 [![Tahmid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tahmid73&theme=dark&layout=compact)](https://github.com/tahmid73)
