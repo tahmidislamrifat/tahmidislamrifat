@@ -6,7 +6,7 @@
 #
 - I am Tahmid Islam 
 - Studying CSE at AMERICAN INTERNATIONAL UNIVERSITY BANGLADESH
-- Junior Software Engineer at Celloscope Limited
+- Software Engineer at Celloscope Limited
   
 #
 - **OS**</br>
